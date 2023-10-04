@@ -1,0 +1,17 @@
+product:
+    app:
+        brand:
+            name: cocaCola
+            price: 4569.75
+        category:
+            C1: CategoryValue1
+            C2: CategoryValue2
+        code: QS5329D
+        id: 1024
+        info:
+        - InfoValue1
+        - InfoValue2
+        - InfoValue3
+        version: 3.34
+    title: my product
+    version: 2.5
